@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I'm a data scientist with a passion for storytelling, believing that data and words are powerful tools for change. Most of my work involves coding and uncovering insights from large datasets. My skills include data analysis, visualization, and machine learning. I enjoy solving problems and taking on challenges. I often manage data science projects from start to finish, from collecting data to delivering business insights like customer segmentation.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
